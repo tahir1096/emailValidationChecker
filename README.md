@@ -15,5 +15,5 @@ There are some rules for writing Email Address some of them are as follows:
 **Avoid Special Characters: **While some email providers allow certain special characters like ".", "-", or "_", it's generally safer to stick with alphanumeric characters to ensure compatibility across all platforms.
 
 <footer>
-  Mian Muhammad Tahir Abbas
+  Muhammad Tahir
 </footer>
